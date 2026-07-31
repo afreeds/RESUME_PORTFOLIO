@@ -3,7 +3,7 @@
 
 A modern, responsive, and interactive personal portfolio website built with **React.js** and **Vite** to showcase my skills, projects, certifications, and professional journey as a Python Full Stack Developer.
 
-🌐 **Live Demo:** https://your-portfolio-link.vercel.app
+🌐 **Live Demo:**afreed-codes.vercel.app
 
 ---
 
@@ -11,7 +11,8 @@ A modern, responsive, and interactive personal portfolio website built with **Re
 
 > Add a screenshot of your portfolio here.
 
-![Portfolio Preview](./public/preview.png)
+afreed-codes.vercel.app
+
 
 ---
 
