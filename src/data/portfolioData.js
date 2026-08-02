@@ -1,5 +1,5 @@
 // ============================================================
-// portfolioData.js — Centralized configuration for Md Yusuf's Portfolio
+// portfolioData.js — Centralized configuration for Shaik Afreed's Portfolio
 // All external links, personal info, and content in one place.
 // Update this file to change any content across the entire site.
 // ============================================================
@@ -374,7 +374,7 @@ export const footerContent = {
     "Full Stack Applications",
   ],
   credential: "B.Tech CSE · CGPA 8.35",
-  copyright: `© ${new Date().getFullYear()} Md Yusuf | Built with React`,
+  copyright: `© ${new Date().getFullYear()} Shaik Afreed | Built with React`,
 };
 
 // EmailJS Configuration
